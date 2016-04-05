@@ -54,10 +54,10 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Sizes */
 
 .bloc-xl{
-	padding:150px 50px;
+	padding:100px 50px;
 }
 .bloc-lg{
-	padding:100px 50px;
+	padding:55px 50px;
 }
 .bloc-md{
 	padding:50px;
@@ -497,7 +497,7 @@ a[data-lightbox]:hover img{
 	background-color:#ffffff;
 }
 .bgc-platinum{
-	background-color:#E5E5E5;
+	background-color:#fafafa;
 }
 /* Text colour styles */
 
@@ -528,7 +528,7 @@ a[data-lightbox]:hover img{
 /* Bloc image backgrounds */
 
 .bg-city-overlay{
-	background-image:url("img/city-overlay.png");
+	background-image:url("img/hero2.jpg");
 }
 
 
@@ -724,4 +724,65 @@ a[data-lightbox]:hover img{
     .video-bg-contianer{
         display:none;
     }
+
+ 
 }
+
+.text{
+		text-align: center;
+		padding-bottom: 10px;
+		padding-top: 20px;
+		text-decoration-line: 
+	}
+
+.text-dev{
+	padding-bottom: 20px;
+	padding-top: 31px;
+	text-align: center;
+}
+
+.hr{
+
+	width: 500px;
+	margin-top: 2px;
+    margin-bottom: 20px;
+    border: 1px;
+    border-top: 1px solid #B3AFAF;
+}
+
+.navbar{
+	background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    color: #FFF;
+    padding: 20px 0;
+    line-height: 16px;
+    height: 60px;
+    text-align: center;
+    margin-left:auto;
+}
+
+.profile{
+	background-color: #fafafa;
+}
+
+.photo img{
+	padding-top:20px;
+}
+
+
+
+.profile{
+	background-color: #fafafa;
+	padding-bottom: 10px;
+	display: inline-block;
+
+}
+
+
+
+
+
